@@ -1,0 +1,361 @@
+1:"$Sreact.fragment"
+2:I[8647,["408","static/chunks/408-d21a81140e24a963.js","177","static/chunks/app/layout-3bd4c5d87bd8f503.js"],"Logo"]
+3:I[7555,[],""]
+4:I[1295,[],""]
+6:I[9665,[],"OutletBoundary"]
+9:I[4911,[],"AsyncMetadataOutlet"]
+b:I[9665,[],"ViewportBoundary"]
+d:I[9665,[],"MetadataBoundary"]
+f:I[6614,[],""]
+:HL["/_next/static/media/4cf2300e9c8272f7-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/media/93f479601ee12b01-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/_next/static/css/f334f92784ac0534.css","style"]
+:HL["/_next/static/css/e5fe68ae2a907df6.css","style"]
+0:{"P":null,"b":"NLpBj7n0Ssg-wLf4VEZAy","p":"","c":["","posts","special_relativity","departure",""],"i":false,"f":[[["",{"children":["posts",{"children":[["slug","special_relativity","d"],{"children":["departure",{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/_next/static/css/f334f92784ac0534.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/_next/static/css/e5fe68ae2a907df6.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__variable_188709 __variable_9a8899 antialiased bg-white dark:bg-gray-900 text-gray-900 dark:text-gray-100","children":[["$","div",null,{"className":"fixed top-0 left-0 z-50 p-8","children":["$","$L2",null,{}]}],["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]}]]}],{"children":["posts",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","special_relativity","d"],["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["departure",["$","$1","c",{"children":[null,["$","$L3",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L4",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L5",null,["$","$L6",null,{"children":["$L7","$L8",["$","$L9",null,{"promise":"$@a"}]]}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","2QfkrvM4Jef0fmlDVklMpv",{"children":[["$","$Lb",null,{"children":"$Lc"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],["$","$Ld",null,{"children":"$Le"}]]}],false]],"m":"$undefined","G":["$f","$undefined"],"s":false,"S":true}
+10:"$Sreact.suspense"
+11:I[4911,[],"AsyncMetadata"]
+13:I[8466,["913","static/chunks/bdfe9574-71e43dae94301d6a.js","408","static/chunks/408-d21a81140e24a963.js","89","static/chunks/89-db9cfec00fce6ab5.js","674","static/chunks/674-66acd7576f80338f.js","193","static/chunks/app/posts/%5Bslug%5D/departure/page-9f362aef906edc65.js"],"default"]
+e:["$","div",null,{"hidden":true,"children":["$","$10",null,{"fallback":null,"children":["$","$L11",null,{"promise":"$@12"}]}]}]
+14:T5564,
+
+## 1. The Moving Stars
+
+### Measuring parallax
+
+
+In the 17th century, one decisive way to verify the Copernican theory of the solar system was to detect *stellar parallax*. First consider a 2D simplification of the scenario. The star and the sun are approximately at rest throughout the year, and as the earth orbits around the sun, an observer on the earth sees an apparent shift of the star's direction. Applying trigonometry to the 2D simplification below, we have that
+
+$$
+\theta \approx \tan\theta \approx \frac{1 \ \mathrm{AU}}{D}
+$$
+
+where $\theta$ is the parallax angle, $\mathrm{AU}$ is the astronomical unit, approximately equal to the distance between the sun and the earth, and $D$ is the distance between the solar system and the star. Also note that the angular shift has a sinusodial pattern, and the extremas are obtained 6 months apart.
+
+![Parallax](figures/special_relativity/parallax.jpg)
+*To be replaced. Parallax. 2D simplification.*
+
+:::note
+**Right ascension (RA)**: Equivalent to an azimuth angle in spherical coordinates. The zero points in the direction of the Sun from Earth at the March equinox. RA is measured in hours eastward corresponding to the earth's orbital direction (counterclockwise viewed from the North celetial pole), where a full cycle corresponds to 24 hours. 
+
+**Declination (Dec)**: Equivalent to a polar angle in spherical coordinates. Dec is measured in degrees, where the celestial equator has a declination of $0^\circ$, and the North celestial pole has a declination of $90^\circ$. Due to the earth's axial tilt of $23.4^\circ$, the Sun's declination varies from $+23.4^\circ$ (summer solstice) to $-23.4^\circ$ (winter solstice).
+
+**Zenith distance**: The angular separation between the zenith (the point directly overhead for an observer) and a celestial object.  When astronomers measure an apparent change of a star in declination, they often measure the change in zenith distance, and they often reference a northward or southward shift, which means an increase or decrease in declinaiton.
+::: 
+
+In 1669, *Hooke* set out to observe *Gamma Draconis (GD)*, a bright star passes nearly directly overhead of London, and claimed to have observed the maximal parallax of $30''$. Now we know that Hooke interpretated the data wrong, and the true parallax of GD is about $0.02''$. What's crucially wrong is not about the magnitude of the measurements though. What Hooke missed was that the pattern was 90 degrees out of phase: the extremas occur at wrong seasons.
+
+To understand when should we expect the extremas to occur, we need to move into the complex 3D world. GD is a bright star with RA ≈ 18h and Dec ≈ 51.5°, which conveniently passes nearly overhead of London (latitude 51.5°) and suffers minimal atmospheric distortion. In June and December, the earth is at the closest and farthest points relative to GD, respectively, and thus the extremas are expected to occur in these two months. Starting from December 1725, Bradley and several other astronomers start to replicate Hooke's experiment. But to their surprise, the extremas of declination occurred in *March and September*.
+
+![Bradley's observation](figures/temp.png)
+{caption}
+*Change in Declination due to {color:#1E90FF}Parallax{/color} and {color:#FF2400}Aberration{/color}.* 
+March/September: maximal velocity into/out of the declination plane, maximal decrease/increase due to {color:#FF2400}aberration{/color}. 
+June/December: closest/farthest approach, maximal increase/decrease due to {color:#1E90FF}parallax{/color}; no change due to {color:#FF2400}aberration{/color}.
+{/caption}
+
+### The corpuscular explanation of aberration
+
+A few years later, Bradley managed to consolidate the results and explained the findings with Newton’s *corpuscular theory of light*, which assumes that light consists of particles traveling at speed $c$ in a fixed medium. For an observer moving at velocity $v$, in their rest frame, the light appears to tilt into the observer's direction of motion. Thus, they must tilt their telescope by an **aberration angle** $\theta$ so that the light enters despite the sideways motion of the telescope. 
+
+![Bradley's Explanation of Aberration](figures/special_relativity/particle_aberration.png)
+*Figure to be replaced. By velocity addition, in observer's rest frame, the light appears to tilt into their direction of motion.*
+
+:::note
+**The Law of Sines**
+![The Law of Sines](figures/special_relativity/law_of_sines.png)
+$$
+\frac{\sin\alpha}{a} = \frac{\sin\beta}{b} = \frac{\sin\gamma}{c}
+$$
+
+$^1$ The relationship derived by Bradley is correct in the low-velocity limit, as we will see in the departure section.
+
+$^2$ This is the maximal $\alpha$ among the stars that pass directly overhead of London (with the same Dec=51.5$^\circ$), leading to a maximal aberration angle. Stars with different RA can have maximal $\alpha$ bounded by $51.5^\circ\pm 23.4^\circ$. For example, a star with RA=6hr will have $\alpha\approx 28^\circ$.
+:::
+
+By the law of sines,
+$$
+\theta \approx \sin\theta = \frac{v}{c} \sin\alpha
+$$
+
+where $\theta$ is the aberration angle, $c$ is the speed of light, $v$ is Earth’s orbital speed projected onto the declination plane, and $\alpha$ is the angle between the line of sight and the direction of the motion$^1$. In late March and September, the earth's orbital velocity is exactly in the declination plane. The angle $\alpha \approx 51.5^\circ + 23.4^\circ \approx 75^\circ$.$^1$ Bradley measured a maximal aberration angle of about $\theta = 20''$, this gives the ratio $v/c = \theta/\sin\alpha \approx 10^{-4}$, which is extremly close to the modern results with the average earth orbital velocity $v\approx 3\times 10^4m/s$ and light speed $c\approx 3\times 10^8m/s$.
+
+
+
+## 2. The Rise of the Wave Theory
+
+> **Note to time travelers.** In the late 19th century, Maxwell’s equations were often written in individual components. We will use the compact vector form for clarity, but keep in mind that contemporaries might be unfamiliar with this notation.
+
+By the early 19th century, overwhelming evidence supported the wave theory of light—where light propagated as oscillations in a luminiferous ether. Young’s double-slit experiment had revealed interference, and Fresnel’s work explained diffraction with remarkable accuracy. 
+
+Maxwell’s equations bring together previous experiments and theories in electricity, magnetism, and optics into one theoretical framework. In their full form, they describe how charges and currents generate electric and magnetic fields, and how these fields evolve in time:
+
+$$
+\begin{aligned}
+&\nabla\cdot \mathbf E = \frac{\rho}{\varepsilon_0} &&\text{(Gauss's law for electricity)} \\
+&\nabla\cdot \mathbf B = 0 &&\text{(Gauss's law for magnetism)} \\
+&\nabla\times \mathbf E = -\frac{\partial \mathbf B}{\partial t} &&\text{(Faraday's law of induction)} \\
+&\nabla\times \mathbf B = \mu_0\mathbf J + \mu_0\varepsilon_0\frac{\partial \mathbf E}{\partial t} &&\text{(Ampère–Maxwell law)}
+\end{aligned}
+$$
+
+Here $\rho$ is the charge density and $\mathbf J$ the current density. In SI units, $\epsilon_0$ and $\mu_0$ are fundamental constants of vacuum; in 19th‑century cgs form, these constants were often absorbed into the definitions of $\rho$, $\mathbf E$, and $\mathbf B$.
+
+When there are no charges or currents—conditions that approximate the propagation of light in empty space—the equations simplify to:
+
+$$
+\nabla\cdot \mathbf E = 0, \quad \nabla\cdot \mathbf B = 0, \quad 
+\nabla\times \mathbf E = -\frac{\partial \mathbf B}{\partial t}, \quad 
+\nabla\times \mathbf B = \mu_0\varepsilon_0 \frac{\partial \mathbf E}{\partial t}.
+$$
+
+From here, the wave nature of light emerges naturally. Taking the curl of Faraday’s law and substituting from Ampère–Maxwell yields:
+
+$$
+\nabla^2 \mathbf E - \mu_0\epsilon_0 \frac{\partial^2 \mathbf E}{\partial t^2} = 0,
+$$
+
+with an identical equation for $\mathbf B$. These are standard wave equations with solutions that propagate at a fixed speed
+
+$$
+c = \frac{1}{\sqrt{\mu_0\varepsilon_0}},
+$$
+
+independent of the source or observer. The electric and magnetic fields are mutually perpendicular and transverse to the direction of propagation.
+
+This constant $c$—measured from purely electrical and magnetic experiments—was found to match the known speed of light, leading Maxwell to conclude that light itself is an electromagnetic wave. However, velocities should be frame-depedent intuitively. If an object moves with velocity $v_1$, and if the observer moves with velocity $v_2$ (both relative to a frame usually referred to as the lab frame), the object should appear to have velocity $v_1+v_2$ in the observer's rest frame. In the 19th‑century context, the constancy of $c$ was understood to hold in the $ether$ frame, prompting experimental tests for Earth’s motion relative to this medium.
+
+## 3. The "Dragged" Ether
+
+### The wave explanation of aberration
+
+Explaining **stellar aberration** with wave theory was less straightforward. If light is treated as a plane wave arriving from a star, its direction should be unaffected by Earth’s motion. However, astronomers still observed aberration. 
+
+![Particle and Wave Model Compaison](figures/special_relativity/particle_wave_aberration_comparison.png)
+{caption}
+*(Left) Particle Theory.* Light ray appears tilted according to the particle model. 
+*(Right) Wave Theory.* The plane wave looks the same in terms of both systems of coordinates.
+{/caption}
+
+Theorists explained this by considering the telescope’s geometry. To match the phase of two waves at the focal point, when the Earth moves sideways at velocity $v$, the light must enter at a small angle $\theta$.
+
+To see this, consider the wavefronts of the two waves. For them to have the same phase, we need
+
+$$
+\begin{align*}
+&\frac{2d}{c} + \frac{d}{\sin\theta (c+v)} = \frac{d}{\sin\theta (c-v)} \\
+&\frac{2d}{c}  = \frac{2vd}{\sin\theta (c^2-v^2)} \approx \frac{2vd}{\sin\theta c^2} \\
+&\theta \approx \sin\theta \approx \frac{v}{c}
+\end{align*}
+$$
+
+where we use the drop the high orders of $v/c$.
+
+![Wave Explanation of Aberration](figures/special_relativity/wave_aberration.png)
+*To be replaced.*
+
+### Partial ether dragging hypothesis
+
+But this explanation has an implication: filling the telescope with a medium (e.g., water) should change $\theta$, since light’s speed in a medium differs from $c$. Specifically, if the medium has refractive index $n$, light travels at speed $c/n$ in the medium, so the angle in the telescope needs to be $v/(c/n) = nv/c$. Further, when light enters the medium from air, the angle is reduced by $1/n$, so the aberration angle is expected to be $n^2v/c$.
+
+![Telescope with Medium](figures/special_relativity/telescope_with_medium.jpg)
+*To be replaced.*
+
+:::note
+$^3$ Instead of "four thirds", it probably should be $16/9$ due to the additional factor brought by refraction.
+:::
+
+> "For if the tangent of the angle of aberration is the ratio of the velocity of the earth to the velocity of light, the, since the ltter velocity in water is three-fourths its velocity in a vacuum, the aberration observed with a water telescope should be four thirds of its true value." (Michelson & Morley, 1887)$^3$
+
+In the 1810s, Arago performed such experiments but found no change in the aberration. Perplexed, he asked Fresnel for an explanation. Fresnel proposed the *partial ether-dragging hypothesis*: the ether is at rest except in the interior of transparent media, in which case the medium drags the ether with it$^4$. Specifically, the dragged ether velocity is
+
+:::note
+$^4$ Fresnel's theory is correct in the low-velocity limit, as we will see in the departure section.
+:::
+
+$$
+(1-\frac{1}{n^2})v
+$$
+
+Back to the derivation in the previous section, in the medium, we are dealing with the speeds $c'=c/n$ and $v'=v/n^2$ (speed of the ether relative to the medium). This leads to 
+
+$$
+\theta \approx \frac{v/n^2}{c/n} = \frac{1}{n}\frac{v}{c}
+$$
+
+inside the medium. Snell’s law reduces this by a further factor of $n$ when refracting into air, so the required tilt remains $v/c$, matching Arago’s null result. The specific dragging factor $(1-\frac{1}{n^2})$ is most likely deduced backward to arrive at a cancellation in medium. In 1851, *Fizeau* confirmed Fresnel’s prediction by measuring light speeds in moving water with an interferometer and a toothed-wheel chopper. Fresnel's hypothesis suggested that due to the partial dragging effect, to the first-order of $v/c$, *no experiments can detect the relative motion between the ether and the earth*.
+
+![Fizeau's Experiment on Relative Speeds of Light in Water](figures/special_relativity/Fizeau_experiment_schematic.png)
+*To be replaced.*
+
+
+### Lorentz' local time hypothesis
+
+However, Fresnel’s model implied that ether-drag depends on $n$, which in turn depends on frequency. This suggested a different ether for light of different frequency—a troubling implication. **Lorentz** offered an alternative explanation that avoided frequency-dependent ether. He introduced a mathematical transformation of time—**local time**—at this point of time regarded by him as a calculational device with no physics implications:
+
+$$
+ t' = t - \frac{v x}{c^2}, \quad x' = x - vt.
+$$
+
+For a monochromatic plane wave in the medium’s rest frame $S'$:
+
+$$
+\phi' = k' x' - \omega' t', \quad \omega' = \frac{c}{n} k'.
+$$
+
+Transforming to the lab frame $S$ using local time:
+
+$$
+\phi' = k'(x - vt) - \omega' \left(t - \frac{v x}{c^2}\right) = \left(k' + \frac{\omega' v}{c^2}\right)x - (\omega' + k' v) t.
+$$
+
+Identifying $\phi = kx - \omega t$, we find:
+
+$$
+k = k' + \frac{\omega' v}{c^2}, \quad \omega = \omega' + k' v.
+$$
+
+The phase speed in the lab is:
+
+$$
+u = \frac{\omega}{k} = \frac{\omega' + k' v}{k' + \frac{\omega' v}{c^2}} = \frac{c}{n}\cdot\frac{1+\frac{nv}{c}}{1+\frac{v}{nc}}.
+$$
+
+Expanding to first order in $v/c$ gives:
+
+$$
+
+u \approx \frac{c}{n}(1+\frac{nv}{c})(1-\frac{v}{nc}) \approx \frac{c}{n} + v(1-\frac{1}{n^2})
+$$
+
+which is precisely Fresnel’s dragging result—now derived without invoking frequency-dependent ether but with a perhaps equally wierd "local time".
+
+## 4. The Undetectable Ether
+
+By the late 19th century, Fresnel's partial ether-dragging and Lorentz's local time ideas had explained all first-order $(v/c)$ optical experiments. But if Earth is moving through a stationary ether, there should still be a measurable effect at *second order* in $v/c$. Michelson and Morley (1887) set out to detect this: a change in the speed of light depending on the direction of Earth's motion through the ether.
+
+They built an *interferometer* with two perpendicular arms of length $L$, mounted on a massive stone slab floating in mercury so the whole device could rotate smoothly. A beam splitter sent light down both arms; reflected beams recombined to form an interference pattern. If the apparatus’s orientation relative to the ether wind changed, the travel times in each arm would differ, causing a fringe shift.
+
+![Michelson & Morley Experiment](figures/special_relativity/michelson_morley.png)
+*To be replaced.*
+
+First consider an arm that is exactly parallel with the ether wind. The total travel time is
+
+$$
+t_1 + t_2 = \frac{L}{c-v} + \frac{L}{c+v} = \frac{2Lc}{c^2 - v^2} = \frac{2L}{c} \cdot \frac{1}{1 - v^2/c^2} \approx \frac{2L}{c} \left( 1 + \frac{v^2}{c^2} \right)
+$$
+
+So the path length is
+
+$$
+s_{\parallel} = c (t_1 + t_2) \approx 2L \left( 1 + \frac{v^2}{c^2} \right)
+$$
+
+For the perpendicular arm, which is perpendicular to the ether wind, light must travel diagonally at speed $c$ to hit the mirror:
+
+$$
+(c t_3)^2 = L^2 + (v t_3)^2 \quad \Rightarrow \quad t_3 = \frac{L}{\sqrt{c^2 - v^2}} = \frac{L/c}{\sqrt{1 - v^2/c^2}} \approx \frac{L}{c} \left( 1 + \frac{1}{2} \frac{v^2}{c^2} \right)
+$$
+
+and the path length after a round trip is
+
+$$
+s_{\perp} \approx 2L \left( 1 + \frac{1}{2} \frac{v^2}{c^2} \right)
+$$
+
+The path difference is
+
+$$
+\Delta s = s_{\parallel} - s_{\perp} \approx L \frac{v^2}{c^2}
+$$
+
+If the apparatus is rotated by $90^\circ$, the sign reverses, giving maximum change,
+
+$$
+\Delta s_{\text{max}} = 2 L \frac{v^2}{c^2}
+$$
+
+Michelson & Morley used $L$ corresponding to $2 \times 10^7$ wavelengths of yellow light. For $v \approx 3 \times 10^4\ \text{m/s}$:
+
+$$
+\Delta s_{\text{max}} \approx 0.4 \lambda \quad \Rightarrow \quad 0.4 \text{ fringe shift}
+$$
+
+Yet the observed fringe shift was **< 0.01 fringes**—a null result.
+
+![Michelson & Morley's Result](figures/special_relativity/michelson_morley_result.png)
+{caption}
+*Michelson & Morley's Plot from Their 1887's Paper.* 
+The top curves are noon observations, and the bottom curves are evening observations. The dotted curves represent one-eighth of the theoretical displacements. The solid curves are actual observations.
+{/caption}
+
+### Lorentz-Fitzgerald contraction
+
+Lorentz and Fitzgerald proposed that lengths along the direction of motion in the lab frame is contracted, and the actual length is
+
+$$
+L \to L \sqrt{1 - v^2/c^2}
+$$
+
+For the parallel arm, this makes $s_{\parallel} = s_{\perp}$, eliminating the predicted fringe shift. The ideas of local time and length contraction evolved into the full Lorentz transformation:
+
+$$
+\begin{aligned}
+x' &= \gamma (x - vt) \\
+t' &= \gamma \left(t - \frac{vx}{c^2}\right) \\
+y' &= y, \quad z' = z
+\end{aligned}
+\quad \text{where} \quad \gamma = \frac{1}{\sqrt{1 - v^2/c^2}}
+$$
+
+## 5. Einstien's Intuition
+
+### The Assymetry in Electrodynamics
+No one will illuminate the intuition better than Einstein himself: 
+> It is known that Maxwell’s electrodynamics—as usually understood at the present time—when applied to moving bodies, *leads to asymmetries which do not appear to be inherent in the phenomena*. Take, for example, the reciprocal electrodynamic action of a magnet and a conductor. The observable phenomenon here depends only on the relative motion of the conductor and the magnet, whereas the customary view draws a sharp distinction between the two cases in which either the one or the other of these bodies is in motion. For if the magnet is in motion and the conductor at rest, there arises in the neighbourhood of the magnet an electric field with a certain definite energy, producing a current at the places where parts of the conductor are situated. But if the magnet is stationary and the conductor in motion, no electric field arises in the neighbourhood of the magnet. In the conductor, however, we find an electromotive force, to which in itself there is no corresponding energy, but which gives rise—assuming equality of relative motion in the two cases discussed—to electric currents of the same path and intensity as those produced by the electric forces in the former case. (Einstien, 1905.)
+
+### The Susceptible Absolute Motion and the Useless Ether
+
+A remarkable fact is that Einstien didn't refer to Michelson & Morley's experiments or other second-order experiments that report null results in detecting ether wind in his 1905 paper. Instead, he cited the null results of first-order experiments. However, he disregarded Fresnel's partial dragging theory, and interpreted the null results as the proof that "to the first order of small quantities, the same laws of electrodynamics and optics will be valid for all frames of reference for which the equations of mechanics hold good", or the relativity principle. Fundamentally, Einstein discards ether or any absolute space as the reference frame.
+
+### The Relativity of Simultaneity
+
+Lorentz's "Local time" is probably equally susceptible to Einstein. Why would the nature torelate a pure mathematical trick without any physical significance? Space and time coordinates are for specific physical events in an inertial frame. The inertial frames can have different origins, but we can find the transformation between them. Let's consider space-time transformation of a 1D space:
+
+:::note
+There are several natural assumptions about the transformation $T$, such as one-to-one and invertibility.
+Another important assumption is the homogeneity of space and time, or no preferred origin in space or time. Intuitively, this means the laws of physics are the same everywhere and everywhen. This implies the additivity of the transformation: 
+
+$$
+T(x+a, t+b) = T(x, t) + T(a, b)
+$$
+
+If we further assume the contituity of the transformation, we have that $T$ is linear, as of Galilean and Lorentz transformation.
+:::
+
+$$
+(x', t') = T(x, t)
+$$
+
+where (x, t) is the coordinate of an event in an inertial frame $S$, and (x', t') is the coordinate of the same event in another inertial frame $S'$. The most intuitive transformation to us is the Galilean transformation: if a frame S' is moving at speed $v$ relative to another frame S, and if we synchonize the clocks of S and S' (set $t=t'=0$), then 
+
+$$
+(x',t') = (x-vt, t)
+$$
+
+Even if we don't synchonize the clocks, we will expect the time to go by the same rate, and hence always differ by a constant. A consequeunce of this intuition is that, if two events are simultaneous in frame $S$ (happen at the same time $t$), then they are  also simultaneous in frame $S'$ (happen at the same time $t'$).
+
+That's why we might feel uneasy to assign a physical meaning to Lorentz transformation: it suggests time is going at different rates in different frames, and that simultaneity is relative!
+
+
+## References
+- 1. Michelson, Albert and Morley, Edward. On the Relative Motion of the Earth and the Luminiferous Ether.
+- 2. Einstein, Albert. On the Electrodynamics of Moving Bodies.
+- 3. Einstien, Albert. Does Inertia of Body Depend on its Energy-Content.
+- 4. Einstien, Albert. Relativity. The Special & The General Theory.
+- 5. Feynman, Richard. The Feyman Lectures on Physics Vol. I Ch. 15: The Special Relativity.
+- 6. Brown, Kevin. Reflections on Relativity.5:["$","$L13",null,{"postData":{"content":"$14","metadata":{"title":"On the Electrodynamics of Moving Bodies","subtitle":"Subtitle to be added","date":"Year: 1905","readTime":"25 min read","topic":"physics"}},"section":"departure","slug":"special_relativity"}]
+8:null
+c:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+7:null
+a:{"metadata":[["$","title","0",{"children":"ΔT - Tutorial for Time Travelers"}],["$","meta","1",{"name":"description","content":"Discover paradigm-shifting breakthroughs through the eyes of history"}],["$","link","2",{"rel":"icon","href":"/favicon.ico","type":"image/x-icon","sizes":"16x16"}]],"error":null,"digest":"$undefined"}
+12:{"metadata":"$a:metadata","error":null,"digest":"$undefined"}
