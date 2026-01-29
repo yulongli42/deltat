@@ -1,0 +1,466 @@
+1:"$Sreact.fragment"
+2:I[9243,["408","static/chunks/408-202d6cc5db7a56a8.js","177","static/chunks/app/layout-17a1005ed625f85c.js"],""]
+3:I[637,["408","static/chunks/408-202d6cc5db7a56a8.js","177","static/chunks/app/layout-17a1005ed625f85c.js"],"Logo"]
+4:I[7555,[],""]
+5:I[1295,[],""]
+7:I[9665,[],"OutletBoundary"]
+a:I[4911,[],"AsyncMetadataOutlet"]
+c:I[9665,[],"ViewportBoundary"]
+e:I[9665,[],"MetadataBoundary"]
+10:I[6614,[],""]
+:HL["/deltat/_next/static/media/4cf2300e9c8272f7-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/deltat/_next/static/media/93f479601ee12b01-s.p.woff2","font",{"crossOrigin":"","type":"font/woff2"}]
+:HL["/deltat/_next/static/css/e9f3f045d682d007.css","style"]
+:HL["/deltat/_next/static/css/f332ba239d452490.css","style"]
+0:{"P":null,"b":"a4lML6uT75FMhCYrwrOuN","p":"/deltat","c":["","posts","special_relativity","arrival",""],"i":false,"f":[[["",{"children":["posts",{"children":[["slug","special_relativity","d"],{"children":["arrival",{"children":["__PAGE__",{}]}]}]}]},"$undefined","$undefined",true],["",["$","$1","c",{"children":[[["$","link","0",{"rel":"stylesheet","href":"/deltat/_next/static/css/e9f3f045d682d007.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}],["$","link","1",{"rel":"stylesheet","href":"/deltat/_next/static/css/f332ba239d452490.css","precedence":"next","crossOrigin":"$undefined","nonce":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":[["$","$L2",null,{"async":true,"src":"https://www.googletagmanager.com/gtag/js?id=G-GKQLH798LN"}],["$","$L2",null,{"id":"gtag-init","strategy":"afterInteractive","children":"window.dataLayer = window.dataLayer || [];\nfunction gtag(){dataLayer.push(arguments);}\ngtag('js', new Date());\ngtag('config', 'G-GKQLH798LN');"}]]}],["$","body",null,{"className":"__variable_c76d95 __variable_e20c2e antialiased bg-white dark:bg-gray-900 text-gray-900 dark:text-gray-100","children":[["$","div",null,{"className":"fixed top-0 left-0 z-50 p-8 hidden md:block","children":["$","$L3",null,{}]}],["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":404}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],[]],"forbidden":"$undefined","unauthorized":"$undefined"}]]}]]}]]}],{"children":["posts",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":[["slug","special_relativity","d"],["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["arrival",["$","$1","c",{"children":[null,["$","$L4",null,{"parallelRouterKey":"children","error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","forbidden":"$undefined","unauthorized":"$undefined"}]]}],{"children":["__PAGE__",["$","$1","c",{"children":["$L6",null,["$","$L7",null,{"children":["$L8","$L9",["$","$La",null,{"promise":"$@b"}]]}]]}],{},null,false]},null,false]},null,false]},null,false]},null,false],["$","$1","h",{"children":[null,["$","$1","XJK7pvzO-PGf8-gEXx4Iav",{"children":[["$","$Lc",null,{"children":"$Ld"}],["$","meta",null,{"name":"next-size-adjust","content":""}]]}],["$","$Le",null,{"children":"$Lf"}]]}],false]],"m":"$undefined","G":["$10","$undefined"],"s":false,"S":true}
+11:"$Sreact.suspense"
+12:I[4911,[],"AsyncMetadata"]
+14:I[5631,["913","static/chunks/bdfe9574-71e43dae94301d6a.js","408","static/chunks/408-202d6cc5db7a56a8.js","443","static/chunks/443-a06fb3740e114ac4.js","674","static/chunks/674-fc9e5f2a52cf2f24.js","332","static/chunks/app/posts/%5Bslug%5D/arrival/page-348608cf99bbc2d9.js"],"default"]
+f:["$","div",null,{"hidden":true,"children":["$","$11",null,{"fallback":null,"children":["$","$L12",null,{"promise":"$@13"}]}]}]
+15:T3bfe,
+## 1. Introduction
+
+Consider a conductor and a magnet. If the magnet is in motion while the conductor is stationary, an electric field is induced. But if the conductor moves while the magnet is stationary, the phenomenon is explained by the Lorentz force acting on charges. The observable effect only depends on the relative motion, but the explanations draw a sharp distinction dependent on the observer.
+
+Moreover, attempts to detect absolute motion through the ether all failed. Arago’s null result, the Fizeau experiment, and the Michelson-Morley result each insisted that no preferred frame could be found.
+
+It is from this tension that we are led to a new framework. Rather than inventing mechanical hypotheses to patch inconsistencies, we propose to retain only those principles which withstand all scrutiny and discard the rest. In their place, we introduce two postulates from which the observed phenomena follow naturally.
+
+
+## 2. The Postulates
+
+**Postulate I: Principle of Relativity.**
+The same laws of electrodynamics and optics will be valid for all frames of reference for which the equations of mechanics hold good.
+
+**Postulate II: Constancy of the Speed of Light.**
+Light is always propagated in empty space with a definite velocity $c$ which is independent of the state of motion of the emitting body.
+
+
+## 3. Theory of the Transformation of Coordinates
+
+We begin by considering two inertial frames $S$ and $S'$, with $S'$ moving at velocity $v$ along the $+x$ axis of $S$. At $t=t'=0$, their origins coincide at event $O$, and each frame’s clocks are synchronized.
+
+Due to constancy of light, we have in $S$ and $S'$ light in $\pm x$ directions
+
+$$
+x \pm ct = 0, \quad x' \pm ct' = 0
+$$
+
+Due to homogeneity of space and time, it remains to find satisfying constants $\lambda$ and $\mu$ accounting for possible scaling:
+
+$$
+x' - ct' = \lambda (x - ct), \quad x' + ct' = \mu (x + ct)
+$$
+
+Adding and subtracting these relations gives
+$$
+x' = a x - b ct, \quad ct' = a ct - b x
+$$
+where $a = (\lambda + \mu)/2$ and $b = (\mu - \lambda)/2$.
+
+The position of origin of $S'$ ($x'=0$) in $S$ satisfies 
+$$
+x_{S'} = \frac{bc}{a} t.
+$$
+
+Using the fact that $x_{S'} = vt$, we find $b/a = v/c$.
+
+To determine $a$, consider the measuring rods in both frames. At $t=0$, $x' = a x$, and a displacement transforms as 
+$$
+\Delta x' = a \Delta x \implies \Delta x = \frac{1}{a} \Delta x'.
+$$
+
+Similarly, consider $t'=0$ in $S'$, we find 
+$$
+0 = act - bx \implies ct = \frac{b}{a} x,
+$$
+and
+$$
+x' = ax - bct = ax - \frac{b^2}{a}x = a \left(1-\frac{b^2}{a^2}\right)x = a \left(1-\frac{v^2}{c^2}\right)x
+$$
+
+Thus, 
+$$
+\Delta x' = a \left(1-\frac{v^2}{c^2}\right) \Delta x
+$$
+
+By the relativity principle, we should have 
+$$
+\frac{1}{a} = a \left(1-\frac{v^2}{c^2}\right) \implies a = \frac{1}{\sqrt{1-\frac{v^2}{c^2}}} \equiv \gamma
+$$
+
+Substitute these back into our equations, we have
+
+$$
+\begin{aligned}
+x' &= \gamma (x-vt)\\
+t' &= \gamma\left(t - \frac{v}{c^2}x\right)
+\end{aligned}
+$$
+
+## 4. Physical Consequences of the Transformation
+
+### 4.1 The Relativity of Simultaneity
+
+The immediate physical consequence suggested by the transformation is the relativity of simultaneity. Due to the $t' = \gamma(t - \frac{v}{c^2}x)$ transformation, two events happening simultaneously in one frame are not simultaneous in another frame if $v\neq 0$.  Due to the relativity of simultaneity, we need to treat time of different frames carefully. When we talk about the time, it is the time of a specific inertial frame,  or if you prefer a more tangible description, the time read by a stationary clock relative to the frame. We assume that we can synchronize all the clocks of an inertial frame, and they will remain synchronized.
+
+### 4.2 Time Dilation
+
+Let's consider two events that are spaced out by $\tau$ in time, $A=(0,0), B=(0, \tau)$ in frame $S$, i.e., two ticks of a clock in its rest frame. In a frame $S'$ travelling at speed $v$ relative to $S$, we see the two ticks of a moving clock at $A'=(0,0), B'=(-\gamma v \tau / c, \gamma\tau)$. Reciprocally, for a stationary clock in the frame $S'$, for events $A'=(0,0), B'=(0, \tau)$, the events are $A=(0,0), B=(\gamma v \tau / c, \gamma\tau)$ in S. Thus, compared to the time recorded by the clock at rest in one frame ($\tau$), the clock moving relative to the frame is faster and records a longer time ($\gamma\tau$).
+
+### 4.3 Length Contraction
+
+:::note
+$\Delta x' = \Delta x / \gamma$ is derived by solving
+$$
+\begin{aligned}
+\Delta x' &= \gamma (\Delta x-v\Delta t)\\
+\Delta t' &= \gamma\left(\Delta t - \frac{v}{c^2}\Delta x\right) = 0
+\end{aligned}
+$$
+:::
+
+Let's consider an object at rest in frame $S$ which has length $L$. Now consider the length of the object in a frame $S'$ that is moving at velocity $v$ relative to $S$. To find the length, we find the displacement between two endpoints simultaneously in $S'$, i.e., $\Delta t'=0$, which gives $\Delta x' = \Delta x / \gamma = L / \gamma$. Thus, compared to the frame $S$ which is at rest with the object, the length in $S'$ which is moving relative to $S$ is shorter.
+
+### 4.4 Composition of Velocities
+
+Consider a particle moving with velocity components $(u_x', u_y', u_z')$ in the inertial frame $S'$.
+We wish to find its velocity components $(u_x, u_y, u_z)$ as measured in the inertial frame $S$, moving at constant velocity $v$ along the $x$-axis relative to $S'$.
+
+From the transformation for space and time coordinates:
+
+$$
+x = \gamma (x' + v t'), \quad
+t = \gamma \left( t' + \frac{v x'}{c^2} \right), \quad
+y = y', \quad
+z = z'
+$$
+
+In frame $S$, the $x$-component of velocity is
+
+$$
+u_x = \frac{dx}{dt} 
+     = \frac{ \gamma (dx' + v dt') }{ \gamma \left( dt' + \frac{v}{c^2} dx' \right) }
+     = \frac{ dx'/dt' + v }{ 1 + \frac{v}{c^2} (dx'/dt') }.
+$$
+
+Recognizing $u_x' = dx'/dt'$, we obtain
+
+$$
+u_x = \frac{u_x' + v}{1 + \frac{u_x' v}{c^2}}.
+$$
+
+For the $y$-component,
+
+$$
+u_y = \frac{dy}{dt} 
+     = \frac{dy'}{\gamma \left( dt' + \frac{v}{c^2} dx' \right) }
+     = \frac{u_y'}{\gamma \left( 1 + \frac{u_x' v}{c^2} \right)}.
+$$
+
+Similarly, for the $z$-component,
+
+$$
+u_z = \frac{dz}{dt} 
+     = \frac{u_z'}{\gamma \left( 1 + \frac{u_x' v}{c^2} \right)}.
+$$
+
+## 5. Resolution of Classical Optical Experiments
+
+### 5.1 Fizeau’s Experiment
+
+Fizeau (1851) measured how a moving dielectric partially “drags” light, using counter‑propagating beams through flowing water and reading the resulting fringe shift on recombination. Special relativity predicts the effect directly from velocity addition.
+
+Let $S'$ be the rest frame of the medium and $S$ the laboratory. In $S'$, light travels at speed $u' = c/n$ along the pipe; the medium moves at speed $v$ along $+x$ in $S$. By relativistic composition of velocities (see §4.4), the phase (or energy) transport velocity observed in $S$ is
+
+$$
+u = \frac{u' + v}{1 + \dfrac{u' v}{c^2}}, \qquad u' = \frac{c}{n}.
+$$
+
+Expanding and ignoring factors in $v/c$ gives Fresnel’s partial dragging law:
+
+$$
+\begin{aligned}
+ u
+ &= \frac{\tfrac{c}{n} + v}{1 + \tfrac{v}{nc}}
+ \approx \Bigl(\frac{c}{n} + v\Bigr)\Bigl(1 - \frac{v}{nc}\Bigr) + \mathcal{O}\!\left(\frac{v^2}{c^2}\right) \\
+&= \frac{c}{n} + v\Bigl(1 - \frac{1}{n^2}\Bigr) + \frac{v^2}{nc} \\
+ &\approx \frac{c}{n} + v\Bigl(1 - \frac{1}{n^2}\Bigr)
+\end{aligned}
+$$
+
+### 5.2 Theory of Doppler Principle
+
+
+Work in an inertial frame $S$ in which the source is (effectively) at rest and very far away, so the wavefronts are locally planar. A monochromatic plane wave can be written as
+
+$$
+\mathbf{E}(\mathbf{x},t) = \mathbf{E}_0\sin\Phi,\qquad
+\mathbf{B}(\mathbf{x},t) = \mathbf{B}_0\sin\Phi
+$$
+
+with phase
+
+$$
+\Phi = \omega\left(t - \frac{1}{c}(l x + m y + n z)\right).
+$$
+
+:::note
+Equivalently, surfaces of constant phase satisfy
+$$
+t - \frac{1}{c}\hat{\mathbf{n}}\cdot\mathbf{x}=\text{const},
+$$
+$$
+\hat{\mathbf{n}}=(l,m,n),\qquad l^2+m^2+n^2=1.
+$$
+i.e. planes moving at speed $c$ in direction $\hat{\mathbf{n}}$.
+:::
+
+Here $(l,m,n)$ is the wave-normal.
+
+
+Let $S'$ be an inertial frame moving with speed $v$ along the $+x$ axis relative to $S$. A wavefront is the set of spacetime points where $\Phi$ takes a fixed value. That set of events is physical and cannot depend on the coordinate system used to describe it. Therefore the phase must be expressible in the same “plane-wave” form in the primed coordinates:
+
+$$
+\Phi = \omega\left(t - \frac{1}{c}(l x + m y + n z)\right)
+= \omega'\left(t' - \frac{1}{c}(l' x' + m' y' + n' z')\right).
+$$
+
+The inversion of the transformation given in §3 gives
+
+$$
+\begin{aligned}
+t = \gamma\left(t'+\frac{v}{c^2}x'\right),\
+x = \gamma(x'+vt'),\
+y = y',\
+z = z'.
+\end{aligned}
+$$
+
+Substitute into the original phase:
+
+$$
+\begin{aligned}
+\Phi &= \omega\Bigg[\gamma\left(t'+\frac{v}{c^2}x'\right)
+-\frac{1}{c}\Big(l\gamma(x'+vt') + m y' + n z'\Big)\Bigg] \\
+&= \omega\Bigg[
+\gamma\left(1-\frac{lv}{c}\right)t'
+-\frac{1}{c}\Big(\gamma(l-\beta)x' + m y' + n z'\Big)
+\Bigg].
+\end{aligned}
+$$
+
+where $\beta = v/c$. Thus, we identify:
+
+$$
+\omega' = \omega\gamma\left(1-\beta l\right)
+$$
+$$
+l' = \frac{l-\beta}{1-\beta l},\qquad
+m' = \frac{m}{\gamma(1-\beta l)},\qquad
+n' = \frac{n}{\gamma(1-\beta l)}
+$$
+
+Let $\alpha$ be the angle, in frame $S$, between the observer’s velocity $+x$ and the direction of light propagation $\hat{\mathbf{n}}$. Then $\cos\alpha = l$. Using $\nu=\omega/2\pi$, $\nu'=\omega'/2\pi$, we get
+
+$$
+\nu' = \nu\gamma\left(1-\beta\cos\alpha\right).
+$$
+
+
+For longitudinal approach ($\alpha=0$), we have
+
+$$
+\nu = \nu'\sqrt{\frac{1+\beta}{1-\beta}}.
+$$
+  
+For longitudinal recession ($\alpha=\pi$), we have
+
+$$
+\nu = \nu'\,\sqrt{\frac{1-\beta}{1+\beta}}.
+$$
+
+For transverse motion ($\alpha=\tfrac{\pi}{2}$), we have
+
+$$
+\nu = \frac{\nu'}{\gamma}.
+$$
+
+For $|\beta|\ll 1$, we recover the classical first-order shift $\nu/\nu' \approx 1 + \beta\cos\alpha$.
+
+### 5.3 Aberration
+
+The new normal direction $(l',m',n')$ describes the ray direction in frame $S'$. In particular, the angle $\alpha'$ between the ray and the $+x'$ axis satisfies
+
+$$
+\cos\alpha' = l'.
+$$
+
+Therefore
+
+$$
+\cos\alpha' = \frac{\cos\alpha-\beta}{1-\beta\cos\alpha}.
+$$
+
+Let $\alpha' = \alpha + \theta$, where $\theta$ is the aberration angle and is assumed to be small, so $\cos\alpha' \approx \cos\alpha - \sin\alpha \theta$. To second order in $\beta$,
+
+$$
+\cos\alpha' \approx \cos\alpha-\beta + \beta\cos^2 \alpha = \cos\alpha - \beta\sin^2 \alpha
+$$
+
+Thus $\theta \approx \beta \sin\alpha = \frac{v}{c}\sin\alpha$, matching aberration predictions according to emission theory of light.
+
+## 6. Transformation of Maxwell-Hertz Equations
+
+Let $(x, y, z, t)$ be the coordinates of $S$, $(\xi, \eta, \zeta, \tau)$ be the coordinates of $S'$. 
+
+:::note
+The transformation of coordinates gives
+$$
+\begin{aligned}
+&\xi=\gamma(x-vt),\\
+&\tau=\gamma\Bigl(t-\frac{v}{c^2}x\Bigr), \\
+&\eta=y, \quad \zeta=z.
+\end{aligned}
+$$
+We have
+$$
+\begin{aligned}
+\partial_x f &= \frac{\partial f}{\partial x} \\
+&= \frac{\partial f}{\partial \xi}\frac{\partial \xi}{\partial x} + \frac{\partial f}{\partial \tau}\frac{\partial \tau}{\partial x} \\
+&= \partial_\xi f \cdot  \left(\gamma\right)  + \partial_\tau f \cdot\left(\gamma \frac{v}{c^2}\right)
+\end{aligned}
+$$
+And similar expressions for other partial derivatives.
+:::
+
+From the transformation of coordinates, we have that
+
+$$
+\partial_x=\gamma\Bigl(\partial_\xi-\frac{v}{c^2}\partial_\tau\Bigr),\qquad
+\partial_t=\gamma\Bigl(\partial_\tau-v\partial_\xi\Bigr),\qquad
+\partial_y=\partial_\eta,\qquad
+\partial_z=\partial_\zeta.
+$$
+
+
+Take the y-component of Ampère–Maxwell law in $S$:
+
+$$
+(\nabla\times\mathbf{B})_y=\partial_z B_x-\partial_x B_z=\frac{1}{c^2}\partial_t E_y
+$$
+
+Now substitute the derivative relations:
+
+$$
+\partial_\zeta B_x-\gamma\Bigl(\partial_\xi-\frac{v}{c^2}\partial_\tau\Bigr)B_z
+=
+\frac{\gamma}{c^2}\Bigl(\partial_\tau-v\partial_\xi\Bigr)E_y
+$$
+$$
+\partial_\zeta B_x
+-\gamma\partial_\xi\Bigl(B_z-\frac{v}{c^2}E_y\Bigr)
+=
+\frac{\gamma}{c^2}\partial_\tau\Bigl(E_y-v B_z\Bigr)
+$$
+
+In the moving frame $S'$, by the principle of relativity, the y-component of Ampère–Maxwell should look like
+
+$$
+\partial_\zeta B_x' - \partial_\xi B_z' = \frac{1}{c^2}\partial_\tau E_y'.
+$$
+
+This matches if we set
+
+$$
+\begin{align*}
+B_x'&=B_x \\
+B_z'&=\gamma\Bigl(B_z-\frac{v}{c^2}E_y\Bigr) \\
+E_y'&=\gamma\Bigl(E_y-v B_z\Bigr)
+\end{align*}
+$$
+
+There could be a linear scaling for each transformation, but considering a symmetry argument (transforming from S' to S), the scaling must be 1.
+
+Doing the same with the other curl components gives the full transformations:
+
+$$
+\begin{aligned}
+E'_\parallel &= E_\parallel, \\
+E'_\perp &= \gamma(E_\perp + v \times B), \\
+B'_\parallel &= B_\parallel, \\
+B'_\perp &= \gamma\left(B_\perp - \frac{v \times E}{c^2}\right).
+\end{aligned}
+$$
+
+From this transformation, we see that what one observer calls an electric field, another observer calls a mixture of electric and magnetic fields. The asymmetry mentioned in the introduction between the moving conductor and the magnet now disappears.
+
+## 7. On Inertia and Energy of a Body
+
+Let a body at rest in frame $S'$ emits two plane light pulses of equal energy $L/2$ along the $\pm x'$ directions. By symmetry, the body remains at rest in $S'$ before and after emission. Consider another inertial frame $S$ in which the body moves with constant speed $v$ along $+x$ (we assume the emission is symmetric in $S'$ so that the body's speed is the same $v$ in $S$ before and after emission).
+
+From §5.2 we have for longitudinal propagation/recession
+
+$$
+\nu = \gamma(1\pm\beta) \nu'
+$$
+
+A finite light pulse with a fixed number of wave crests transforms its energy by the same Doppler factor as its frequency. Hence the two pulse energies measured in $S$ are
+
+$$
+E_{+} = \frac{L}{2}\,\gamma(1+\beta),\qquad
+E_{-} = \frac{L}{2}\,\gamma(1-\beta).
+$$
+
+Therefore the total radiated energy in $S$ is
+
+$$
+E_\text{rad}^{(S)} = E_{+}+E_{-} = L\,\gamma.
+$$
+
+Denote by $E'_\text{0}$ and $E'_\text{1}$ the body's energies in $S'$ before and after emission. Energy conservation in $S'$ gives
+
+$$
+E'_\text{0} = E'_\text{1} + L.
+$$
+
+Let $E_\text{0}$ and $E_\text{1}$ be the body's energies in $S$ before and after emission. Energy conservation in $S$ gives
+
+$$
+E_\text{0} = E_\text{1} + L\,\gamma.
+$$
+
+Note that $E_i$ and $E_i'$ are energy values of the same body referred to two systems of coordinates which are in motion relative to each other, and the body is at rest in the latter system. Thus their differences are kinetic energy $K$ up to a constant $C$ depending on the zero points of $E$ and $E'$.
+
+$$
+\begin{aligned}
+E_0 - E_0' = K_0 + C \\
+E_1 - E_1' = K_1 + C 
+\end{aligned}
+$$
+
+Subtracting yields the change in kinetic energy at fixed speed $v$:
+
+$$
+K_0 - K_1 = (E_0 -E_0')-(E_1-E_1') = L(\gamma-1).
+$$
+
+For $\beta\ll 1$, $\gamma-1 = \tfrac12\beta^2 + O(\beta^4)$. Then we have
+
+$$
+\Delta K = \frac{L}{2}\,\frac{v^2}{c^2} + O\!\left(\frac{v^4}{c^4}\right).
+$$
+
+Classically, at fixed speed $v$, a change of kinetic energy equals $\tfrac12 \Delta m v^2$. Identifying terms, we obtain the decrease of mass accompanying the emission of radiant energy $L$:
+
+$$
+\Delta m = \frac{L}{c^2}.
+$$
+
+Thus the loss of energy $L$ in the rest frame is accompanied by a loss of mass $L/c^2$. More generally, we can conclude that the mass of a body is a measure of its energy-content.
+6:["$","$L14",null,{"postData":{"content":"$15","metadata":{"title":"On the Electrodynamics of Moving Bodies","subtitle":"In this two-part series, we will reproduce Einstein's 1905 papers on special relativity. In the departure briefing, we will review the key experiments including stellar aberration, Fizeau experiment, and Michelson Morley experiment that Einstein needed to explain, and theories predated Einstein's work including Fresnel's partial ether dragging and Lorentz local time and length contraction. In the arrival section, we layout the reproduced paper based on 'On the Electrodynamics of Moving Bodies' and 'Does the Inertia of a Body Depend Upon Its Energy Content'.","date":"Year: 1905","readTime":"30 min read","topic":"physics"}},"section":"arrival","slug":"special_relativity"}]
+9:null
+d:[["$","meta","0",{"charSet":"utf-8"}],["$","meta","1",{"name":"viewport","content":"width=device-width, initial-scale=1"}]]
+8:null
+b:{"metadata":[["$","title","0",{"children":"ΔT - Tutorial for Time Travelers"}],["$","meta","1",{"name":"description","content":"A guide for time travelers to scoop paradigm-shifting breakthroughs."}],["$","link","2",{"rel":"icon","href":"/deltat/favicon.ico","type":"image/x-icon","sizes":"16x16"}]],"error":null,"digest":"$undefined"}
+13:{"metadata":"$b:metadata","error":null,"digest":"$undefined"}
